@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "885949393423",
+    "firebase_url": "https://pbeducation-ffaca.firebaseio.com",
+    "project_id": "pbeducation-ffaca",
+    "storage_bucket": "pbeducation-ffaca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885949393423:android:2d65e831ea980b3415d17a",
+        "android_client_info": {
+          "package_name": "com.pbch.pbcheducations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885949393423-g5hrqlnfosdmk7b9sgaeq47o8qh4u0tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcOAhqpkCaLE6GuskB5AwnWaZnaO_sw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885949393423-g5hrqlnfosdmk7b9sgaeq47o8qh4u0tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885949393423:android:68461b5d26767d22",
+        "android_client_info": {
+          "package_name": "it4.it400.pbeducation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885949393423-liqp35dt9usjodbpsj6g9ihfo6jonm93.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "it4.it400.pbeducation",
+            "certificate_hash": "1e2fc8fd9975afca426f24a52b72aa52df53ede8"
+          }
+        },
+        {
+          "client_id": "885949393423-g5hrqlnfosdmk7b9sgaeq47o8qh4u0tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmcOAhqpkCaLE6GuskB5AwnWaZnaO_sw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885949393423-g5hrqlnfosdmk7b9sgaeq47o8qh4u0tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
