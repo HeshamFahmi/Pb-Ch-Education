@@ -50,7 +50,7 @@ class _TeacherExamMainState extends State<TeacherExamMain> {
     printFirebase();
     _initGoogleMobileAds();
     _bannerAd = BannerAd(
-      adUnitId: "ca-app-pub-2073307138460182/2670963701",
+      adUnitId: "ca-app-pub-2300635421121646/4033640122",
       request: AdRequest(),
       size: AdSize.banner,
       listener: AdListener(

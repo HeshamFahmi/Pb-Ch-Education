@@ -19,8 +19,8 @@ void main() {
   ));
 }
 
-String appAdsId = "ca-app-pub-2073307138460182~2522596376";
-String appBannerId = "ca-app-pub-2073307138460182/2670963701";
+String appAdsId = "ca-app-pub-2300635421121646~1599048476";
+String appBannerId = "ca-app-pub-2300635421121646/4033640122";
 
 class MyApp extends StatefulWidget {
   @override

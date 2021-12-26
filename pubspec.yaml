@@ -35,16 +35,15 @@ dependencies:
   carousel_slider: ^3.0.0
   quiver: any
   circular_countdown: any
-  hexcolor: ^1.0.4
+  hexcolor: ^2.0.5
   firebase_database: ^4.4.0
   firebase_core : ^0.5.3
   font_awesome_flutter: any
-  flutter_open_whatsapp: ^0.1.2
   google_mobile_ads: 
   like_button: 
   photo_view: 
   fluttertoast: 
-  flutter_windowmanager: ^0.0.2
+  flutter_windowmanager: ^0.2.0
   flutter_localizations:
     sdk: flutter
 
